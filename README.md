@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Canaximui1302
+- 👋 Hi, I’m Minh Khanh
 - 👀 I’m interested in video games
-- 🌱 I’m currently learning I.T
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning I.T and mathematics
+
 
 <!---
 Canaximui1302/Canaximui1302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
