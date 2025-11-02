@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Minh Khanh
-- 👀 I’m interested in video games
-- 🌱 I’m currently learning CS and maths
+CS student, passionate about ML/DL
 
 
 <!---
